@@ -18,8 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
+  - title: "모두를 위한 딥러닝"
+    url: /categories/everyone/
   - title: "Categories2"
     url: /categories/categories2/
   - title: "Categories3"

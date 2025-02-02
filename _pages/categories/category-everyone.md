@@ -3,7 +3,7 @@ title: "모두의딥러닝"
 layout: category
 permalink: /categories/everyone/
 author_profile: true
-taxonomy: everyone
+taxonomy: Categories1
 sidebar:
-  nav: "모두의 딥러닝"
+  nav: "categories"
 ---
