@@ -26,7 +26,7 @@ last_modified_at: 2025-02-01
 
 ### 1-Stage Detector , 2-Stage Detector
 
-![image.png](image.png)
+![image.png](/assets/images/faster_rcnn/image.png)
 
 - <2-Stage Detecor> - Regional Proposal 과 Classification이 순차적으로 이루어진다.
     
