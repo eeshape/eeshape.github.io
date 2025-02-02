@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "Paper_Review"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/paper_review/
 author_profile: true
-taxonomy: Categories2
+taxonomy: Paper_Review
 sidebar:
   nav: "categories"
 ---
