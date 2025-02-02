@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "모두의딥러닝"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/everyone/
 author_profile: true
-taxonomy: Categories1
+taxonomy: everyone
 sidebar:
-  nav: "categories"
+  nav: "모두의 딥러닝"
 ---
