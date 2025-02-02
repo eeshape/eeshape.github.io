@@ -20,8 +20,8 @@ main:
 categories:
   - title: "모두를 위한 딥러닝2"
     url: /categories/everyone/
-  - title: "Categories2"
-    url: /categories/categories2/
+  - title: "Paper_Review"
+    url: /categories/paper_review/
   - title: "Categories3"
     url: /categories/categories3/
   - title: "Categories4"
