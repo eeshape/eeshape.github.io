@@ -227,7 +227,7 @@ Q. 2천개인 이유
 
 ![image.png](/assets/images/faster_rcnn/image14.png)
 
-<SVM> support Vector Machine
+[SVM] support Vector Machine
 
 1. 지도학습 알고리즘
 2. 최적의 결정 경계(선)을 찾는 것
