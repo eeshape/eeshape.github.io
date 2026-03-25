@@ -124,13 +124,13 @@
             animation: fadeUp 0.6s 0.2s forwards;
         }
         .hero-avatar {
-            width: 120px; height: 120px;
+            width: 170px; height: 170px;
             border-radius: 50%;
             overflow: hidden;
             border: 2px solid var(--border);
             flex-shrink: 0;
         }
-        .hero-avatar img { width: 100%; height: 100%; object-fit: cover; object-position: center 35%; }
+        .hero-avatar img { width: 110%; height: 110%; object-fit: contain; margin: -5%; }
         .hero-meta {
             display: flex;
             flex-direction: column;
@@ -138,7 +138,7 @@
         }
         .hero-meta-name {
             font-family: 'Sora', sans-serif;
-            font-size: 26px;
+            font-size: 32px;
             font-weight: 700;
             color: var(--text);
         }
@@ -837,11 +837,11 @@
 
             <details class="gallery-section">
                 <summary class="photo-toggle">GDSC 사진</summary>
-                <div class="gallery-grid" data-folder="photos/gdsc/" data-count="0"></div>
+                <div class="gallery-grid" data-folder="photos/gdsc/" data-count="6"></div>
             </details>
             <details class="gallery-section">
                 <summary class="photo-toggle">연구실 사진</summary>
-                <div class="gallery-grid" data-folder="photos/trustlab/" data-count="0"></div>
+                <div class="gallery-grid" data-folder="photos/trustlab/" data-count="6"></div>
             </details>
         </section>
 
@@ -913,16 +913,12 @@
             </div>
 
             <details class="gallery-section">
-                <summary class="photo-toggle">ONE WAVE 사진</summary>
-                <div class="gallery-grid" data-folder="photos/onewave/" data-count="0"></div>
-            </details>
-            <details class="gallery-section">
                 <summary class="photo-toggle">Devfest 사진</summary>
-                <div class="gallery-grid" data-folder="photos/devfest/" data-count="0"></div>
+                <div class="gallery-grid" data-folder="photos/devfest/" data-count="2"></div>
             </details>
             <details class="gallery-section">
                 <summary class="photo-toggle">DemoDay 사진</summary>
-                <div class="gallery-grid" data-folder="photos/demoday/" data-count="1"></div>
+                <div class="gallery-grid" data-folder="photos/demoday/" data-count="7"></div>
             </details>
             <details class="gallery-section">
                 <summary class="photo-toggle">Build with AI 사진</summary>
@@ -934,7 +930,7 @@
             </details>
             <details class="gallery-section">
                 <summary class="photo-toggle">유니톤 사진</summary>
-                <div class="gallery-grid" data-folder="photos/uniton/" data-count="0"></div>
+                <div class="gallery-grid" data-folder="photos/uniton/" data-count="9"></div>
             </details>
         </section>
 
